@@ -1,4 +1,4 @@
-# Data from Wikipediaxxxxxxxxxxxxx
+# Data from Wikipediaxxxxxxxxxxxxxyyyyyyyyy
 
 # Project Description
 This service is designed to retrieve definitions of words. If the term is already present in the database, the service outputs its definition. Otherwise, it requests permission to search the Wikipedia API, and then displays a brief list of pages. The user selects the desired page, and then retrieves its content, which is then stored in the database.
